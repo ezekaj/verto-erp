@@ -2,7 +2,7 @@
 
 A business system for Albanian companies that grows from a CRM into a full ERP: accounting, sales, inventory, HR, fiscalization and operations in one Albanian-language product.
 
-**Status:** pilot deployment, running on-premises at its first client (a hospitality complex). Actively developed.
+**Status:** piloted on-premises at a hospitality complex in 2026 (pilot completed). Actively developed.
 
 > Code is private (client work). This repository is a case study.
 
